@@ -10,13 +10,12 @@ lo que buscamos con esta biblioteca es que por medio de un programa codificado c
 - oprimir tecla windous
 - ejecutar cmd
 - una vez avierto cmd debe poner el siguiente comando 
->  - git clone [copiar el link]
+> git clone https://github.com/camiloarchila/numeros-complejos.git
 
-
-el link lo pude copiar desde el repositorio y ya tendria clonado el repositorio
+el link tambien lo pude copiar desde el repositorio y ya tendria clonado el repositorio
  
 ## Ejecutar pruebas 
-Para ejecutar las pruebas, debe abrir el archivo llamado "unitt" anterior mente clonado, lo debe abir en el idle o en el editor de codigo que este utilizando y simplemente ejecuarlo 
+Para ejecutar las pruebas, debe abrir el archivo llamado "unitt" anterior mente clonado, lo debe abir en el idle o en el editor de codigo que este utilizando y simplemente ejecuarlo. 
 > si alfinal le sale ok, las prubas fueron exitosos y los resultados correctos.
 sino, los valores ingrasados no son validos.
 
