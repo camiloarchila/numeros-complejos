@@ -12,6 +12,7 @@ lo que buscamos con esta biblioteca es que por medio de un programa codificado c
 - una vez avierto cmd debe poner el siguiente comando 
 >  - git clone [copiar el link]
 
+
 el link lo pude copiar desde el repositorio y ya tendria clonado el repositorio
  
 ## Ejecutar pruebas 
