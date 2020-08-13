@@ -1,18 +1,25 @@
 # Biblioteca de complejos
-El proyecto consiste en la creacion de una bblioteca en python para realizar todas las opreaciones posibles con los numeros complejos 
-## comnzando
-lo que buscamos con esta biblioteca es que por medio de un programa codificado comprovamos las operaciones que se relizan entre numeros complejos 
-## Pre-requisitos
-debe tener intalado python en su computador, este programa fue creado en anaconda con spyder, las instrucciones estaran dadas para dicho programa
+El proyecto consiste en la creacion de una biblioteca en python para realizar opreaciones con los numeros complejos, tales como:
+- suma, resta, multiplicacion, division, modulo, conjugado, conversion de cordenasdas polares y cartecianas, fase 
+
+## comenzando
+lo que buscamos con esta biblioteca es que por medio de un programa codificado comprovamos las respuestas de las operaciones, si se ejecuta con exito quiere decir que son correstas por el contrario no 
+
 ## Instalacion
-para instalarlo simplemente en el buscador de google busca anaconda y una vez instalado anaconda despues de ejecutarlo apareceran diferentes editores y ahi mismo puede instalar el spyder 
+ Para clonar el archivo simlemente debe seguir los pasos:
+- oprimir tecla windous
+- ejecutar cmd
+- una vez avierto cmd debe poner el siguiente comando 
+>  - git clone [copiar el link]
+
+el link lo pude copiar desde el repositorio y ya tendria clonado el repositorio
+ 
 ## Ejecutar pruebas 
-para ejecutar el codigo una vez abierto en spyder, lo que debe hacer es en la parte superior izquierda, da en play y ahi automaticamente el programa lo tiene cargado, en la parte inferios derecha esta la consola para ejecutar el programa,
-por ejemplo:
-la primera funcion es la suma entonces solo debe poner en ese cansola :
-suma() y oprimir enter
-### analisar las pruebas
- si desea hacer cambios en las pruebas en el codigo que esta en la parte izquierda del programa debe localizar las variables las cuales estan dadas en unos arreglos, lo unico que debe hacer es cambiar los valores por los que usted ya tiene y nuevamente hacer lo explicado anterior mente en : "ejecutar pruebas"
+Para ejecutar las pruebas, debe abrir el archivo llamado "unitt" anterior mente clonado, lo debe abir en el idle o en el editor de codigo que este utilizando y simplemente ejecuarlo 
+> si alfinal le sale ok, las prubas fueron exitosos y los resultados correctos.
+sino, los valores ingrasados no son validos.
+
+
 ## Construido con
 **- anaconda** - programa usado
 	- spyder - editor de codigo usado
